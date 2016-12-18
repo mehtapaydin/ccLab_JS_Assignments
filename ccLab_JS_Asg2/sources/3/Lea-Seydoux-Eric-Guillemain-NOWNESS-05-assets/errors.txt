@@ -1,0 +1,7 @@
+[9/15/2016, 3:27:21 PM] layer "5.png": Duplicate path: 5.png
+[9/15/2016, 3:27:21 PM] layer "6.png": Duplicate path: 6.png
+[9/15/2016, 3:27:21 PM] layer "4.png": Duplicate path: 4.png
+[9/15/2016, 3:27:21 PM] layer "7.png": Duplicate path: 7.png
+[9/15/2016, 3:27:21 PM] layer "1.png": Duplicate path: 1.png
+[9/15/2016, 3:27:21 PM] layer "3.png": Duplicate path: 3.png
+[9/15/2016, 3:27:21 PM] layer "2.png": Duplicate path: 2.png
